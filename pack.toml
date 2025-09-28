@@ -1,0 +1,13 @@
+name = "Dragonile"
+author = "Melissa"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "67d94e496f2c7040fd21ec74796e81a1228246ca23f401406202922165e41fdf"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"
