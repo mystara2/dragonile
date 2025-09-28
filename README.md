@@ -5,4 +5,4 @@ A minecraft modpack for 1.12.2, meant for friends but possible to be used by oth
 ### > Installation
 
 1. Use [Prism Launcher](https://prismlauncher.org/)
-2. Add/import the instance: [Will replace w link later]
+2. Add/import the instance: [Right click to copy](https://raw.githubusercontent.com/mystara2/dragonile/refs/heads/main/pack.toml)
