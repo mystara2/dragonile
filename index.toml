@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "groovy/postinit/main.groovy"
+hash = "a87d6a7f7661a2c8e3af88c48e99b61da7673c22bb23021dfbe0e1dc24d67782"
+
+[[files]]
 file = "mods/ae2-extended-life.pw.toml"
 hash = "21d6ef9d52551f2adb9aad7752b551312fe417a693a992aee1dd0fbd83cce3d0"
 metafile = true
