@@ -1,0 +1,13 @@
+name = "Progressive Difficulty"
+filename = "ProgressiveDifficulty-1.12_3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "79ac85f9a3077a9115c79d1ad409290fac38db59"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2498631
+project-id = 270476

@@ -1,0 +1,13 @@
+name = "Ice and Fire: RotN Edition"
+filename = "Ice and Fire-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0e556d124c2f0a42d454731f2a4b4dd0dcbda80b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6820213
+project-id = 457668
