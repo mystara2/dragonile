@@ -81,6 +81,11 @@ hash = "49cfa6cc9199acf8160d8d4d5c7c0be5f6b5ac2d3e113a7d1f27a91fb237fd9c"
 metafile = true
 
 [[files]]
+file = "mods/laggoggles.pw.toml"
+hash = "2aec74c6dd668ddaca814969e6280f58c3b751ba75379d508a32c0b3f29dbf40"
+metafile = true
+
+[[files]]
 file = "mods/lunatriuscore.pw.toml"
 hash = "059eed4d55fa0728def70fc36e958b7d0f66bf6f6a4d856dbe6530cd30cac8ed"
 metafile = true
@@ -163,6 +168,11 @@ metafile = true
 [[files]]
 file = "mods/so-many-enchantments.pw.toml"
 hash = "dda77f235f0b43ca466f0eb0a77106f27ec1181ed86e032771cdb4bb8ae24e40"
+metafile = true
+
+[[files]]
+file = "mods/tickcentral.pw.toml"
+hash = "19ef45fc00112597f2c1f9eea7b59778d953b3f8bc360fc95bb4937849df1bf1"
 metafile = true
 
 [[files]]
